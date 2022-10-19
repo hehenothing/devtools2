@@ -1,0 +1,3 @@
+[submodule "devtools2"]
+	path = devtools2
+	url = https://github.com/hehenothing/devtools2.git
